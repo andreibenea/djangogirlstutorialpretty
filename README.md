@@ -1,8 +1,12 @@
 # djangogirlstutorial
 
-Copied over from `https://github.com/andreibenea/sdev-220/tree/main/module-4/django-tutorial` (Module 4).
+Copied over from `https://github.com/andreibenea/djangogirlstutorial` (Module 5).
 
-Purpose is to allow easier deployment & updates to `www.pythonanywhere.com`.
+Purpose is to have a separate repo for performing the following tutorials:
+1. CSS - make it pretty
+2. Template Extending
+3. Extend Your Application
+4. Django Forms
 
 ## cloning
 
