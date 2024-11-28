@@ -11,8 +11,8 @@ Purpose is to have a separate repo for performing the following tutorials:
 ## cloning
 
 Run the following commands (Windows users may need to use `python` instead of `python3`):
-1. `git clone git@github.com:andreibenea/djangogirlstutorial.git`
-2. `cd djangogirlstutorial`
+1. `git clone git@github.com:andreibenea/djangogirlstutorialpretty.git`
+2. `cd djangogirlstutorialpretty`
 3. `python3 -m venv .venv`
 4. `source .venv/bin/activate` (Mac) or `.venv\Scripts\activate` (Windows)
 5. `python3 -m pip install -r requirements.txt`
